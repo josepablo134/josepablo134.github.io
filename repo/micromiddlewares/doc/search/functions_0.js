@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['driver8080_5fclose_0',['Driver8080_close',['../_driver8080_8c.html#aa9950b5cb9460d5c15d76053081e7564',1,'Driver8080_close(void):&#160;Driver8080.c'],['../_driver8080_8h.html#aa9950b5cb9460d5c15d76053081e7564',1,'Driver8080_close(void):&#160;Driver8080.c']]],
+  ['driver8080_5finit_1',['Driver8080_init',['../_driver8080_8h.html#a19191c0cd1a61d964442c1511bf4f110',1,'Driver8080_init(void):&#160;Driver8080.c'],['../_driver8080_8c.html#a19191c0cd1a61d964442c1511bf4f110',1,'Driver8080_init(void):&#160;Driver8080.c']]],
+  ['driver8080_5fioctl_2',['Driver8080_ioctl',['../_driver8080_8h.html#aaedad56cb5840d3d11a882d60f47fc8b',1,'Driver8080_ioctl(unsigned int config, void *buffer):&#160;Driver8080.c'],['../_driver8080_8c.html#aaedad56cb5840d3d11a882d60f47fc8b',1,'Driver8080_ioctl(unsigned int config, void *buffer):&#160;Driver8080.c']]],
+  ['driver8080_5fopen_3',['Driver8080_open',['../_driver8080_8h.html#abbed5f70c3647d7cc94785685c303fa5',1,'Driver8080_open(void):&#160;Driver8080.c'],['../_driver8080_8c.html#abbed5f70c3647d7cc94785685c303fa5',1,'Driver8080_open(void):&#160;Driver8080.c']]],
+  ['driver8080_5fread_4',['Driver8080_read',['../_driver8080_8h.html#ad481a1eddaee1bdd2046d12c14c62dbb',1,'Driver8080_read(void *buffer, unsigned int size):&#160;Driver8080.c'],['../_driver8080_8c.html#ad481a1eddaee1bdd2046d12c14c62dbb',1,'Driver8080_read(void *buffer, unsigned int size):&#160;Driver8080.c']]],
+  ['driver8080_5fwrite_5',['Driver8080_write',['../_driver8080_8h.html#a0e371042c73b65a4b1ab28c603dd2b87',1,'Driver8080_write(const void *buffer, unsigned int size):&#160;Driver8080.c'],['../_driver8080_8c.html#a0e371042c73b65a4b1ab28c603dd2b87',1,'Driver8080_write(const void *buffer, unsigned int size):&#160;Driver8080.c']]],
+  ['driveri2c_5fclose_6',['DriverI2C_close',['../_driver_i2_c_8h.html#aeeca40aefac571903a47760d4608d059',1,'DriverI2C_close(int fd):&#160;DriverI2C.c'],['../_driver_i2_c_8c.html#aeeca40aefac571903a47760d4608d059',1,'DriverI2C_close(int fd):&#160;DriverI2C.c']]],
+  ['driveri2c_5finit_7',['DriverI2C_init',['../_driver_i2_c_8c.html#a7cfa1e7599878f5f59f986ac0a685f4a',1,'DriverI2C_init(void):&#160;DriverI2C.c'],['../_driver_i2_c_8h.html#a7cfa1e7599878f5f59f986ac0a685f4a',1,'DriverI2C_init(void):&#160;DriverI2C.c']]],
+  ['driveri2c_5fioctl_8',['DriverI2C_ioctl',['../_driver_i2_c_8h.html#a34601c5ee85936c5e52cfe091286887b',1,'DriverI2C_ioctl(int fd, unsigned int config, void *buffer):&#160;DriverI2C.c'],['../_driver_i2_c_8c.html#a34601c5ee85936c5e52cfe091286887b',1,'DriverI2C_ioctl(int fd, unsigned int config, void *buffer):&#160;DriverI2C.c']]],
+  ['driveri2c_5fopen_9',['DriverI2C_open',['../_driver_i2_c_8h.html#a4798c739d08cdcebbf178ca8bdb5fec2',1,'DriverI2C_open(unsigned int i2c_device):&#160;DriverI2C.c'],['../_driver_i2_c_8c.html#a4798c739d08cdcebbf178ca8bdb5fec2',1,'DriverI2C_open(unsigned int i2c_device):&#160;DriverI2C.c']]],
+  ['driveri2c_5fread_10',['DriverI2C_read',['../_driver_i2_c_8h.html#a99d5097837ae4cd63ff25750f7c2df25',1,'DriverI2C_read(int fd, void *buffer, unsigned int size):&#160;DriverI2C.c'],['../_driver_i2_c_8c.html#a99d5097837ae4cd63ff25750f7c2df25',1,'DriverI2C_read(int fd, void *buffer, unsigned int size):&#160;DriverI2C.c']]],
+  ['driveri2c_5fwrite_11',['DriverI2C_write',['../_driver_i2_c_8h.html#a74468e50b20dd6c4660e071cc6d6ebdb',1,'DriverI2C_write(int fd, const void *buffer, unsigned int size):&#160;DriverI2C.c'],['../_driver_i2_c_8c.html#a74468e50b20dd6c4660e071cc6d6ebdb',1,'DriverI2C_write(int fd, const void *buffer, unsigned int size):&#160;DriverI2C.c']]],
+  ['driverspi_5fclose_12',['DriverSPI_close',['../_driver_s_p_i_8h.html#aeffeefe31071f6a380b062840612c201',1,'DriverSPI.c']]],
+  ['driverspi_5finit_13',['DriverSPI_init',['../_driver_s_p_i_8h.html#a0192da97ba8dff4ccdff39a73b2f4185',1,'DriverSPI.c']]],
+  ['driverspi_5fioctl_14',['DriverSPI_ioctl',['../_driver_s_p_i_8h.html#ad56feca75e1337fd54079c9ee61ade58',1,'DriverSPI.c']]],
+  ['driverspi_5fopen_15',['DriverSPI_open',['../_driver_s_p_i_8h.html#a6581c45bed625bf37c090eb4526ffdee',1,'DriverSPI.c']]],
+  ['driverspi_5fread_16',['DriverSPI_read',['../_driver_s_p_i_8h.html#a7597e4cacd9946d67d2687b854376e52',1,'DriverSPI.c']]],
+  ['driverspi_5fwrite_17',['DriverSPI_write',['../_driver_s_p_i_8h.html#a22cd4795504f66ab609c2559cfbe4e2e',1,'DriverSPI.c']]]
+];
